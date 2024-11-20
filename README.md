@@ -53,11 +53,3 @@ This project is a React-based news application built using TypeScript. It allows
 y
 
 
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
